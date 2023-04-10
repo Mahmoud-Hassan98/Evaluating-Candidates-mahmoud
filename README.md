@@ -7,8 +7,8 @@ The website will compare the user's (candidate) answers with the correct answers
 
 The Quiz will be timed. If you fail to complete the quiz before the timer runs out, you will be taken to the results page regardless of the remaining questions. Therefore, it is essential that you pay attention to the timer!
 
----------
----------
+--------
+
 
 ### **⚙️ TOOLS**
    * **HTML**
